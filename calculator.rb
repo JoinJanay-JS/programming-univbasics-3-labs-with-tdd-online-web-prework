@@ -1,3 +1,3 @@
 # Add your variables here
-first_number = "3"
-second_number = "2"
+first_number = 3
+second_number = 2
