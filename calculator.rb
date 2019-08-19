@@ -1,3 +1,3 @@
-first_number = 3
+first_number = 15
 second_number = 2
 
